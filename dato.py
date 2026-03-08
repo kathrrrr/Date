@@ -26,4 +26,6 @@ minDato2 = Date(31,7,2023)
 print(minDato2.toString())
 minDato2.setToNextDay()
 print(minDato2.toString())
+
+#bare en kommentar for at tjekke pull
     
