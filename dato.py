@@ -28,4 +28,5 @@ minDato2.setToNextDay()
 print(minDato2.toString())
 
 #bare en kommentar for at tjekke pull
+#nu vil jeg tracke fetch
     
